@@ -23,3 +23,5 @@ Test Execution methods
    ex : cd D:\deckofcards
 3. Execute below command to run the project
    ex : mvn clean install -Dsuite=deckofcards
+
+## Reports will be generated under report folder after execution of test cases.
