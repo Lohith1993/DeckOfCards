@@ -23,8 +23,8 @@ public class Reporter {
 
 		// configuration items to change the look and feel
 		// add content, manage tests etc
-		htmlReporter.config().setDocumentTitle("Cucumber Report");
-		htmlReporter.config().setReportName("Cucumber Test Report");
+		htmlReporter.config().setDocumentTitle("API Report");
+		htmlReporter.config().setReportName("API Test Report");
 		htmlReporter.config().setTheme(Theme.STANDARD);
 		htmlReporter.config().setTimeStampFormat("EEEE, MMMM dd, yyyy, hh:mm a '('zzz')'");
 	}
